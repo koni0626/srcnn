@@ -1,5 +1,13 @@
 # srcnn
 srcnnの実験
+
+# 環境
+ubuntu18.04
+
+keras+tensorflowを使用。
+
+
+# 説明
 python3 train.pyで学習を行います。
 
 python3 test.pyで予測します。
